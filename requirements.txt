@@ -1,0 +1,19 @@
+Requirements:
+
+You'll need the latest version of python to run this application.
+
+The following modules and packages are required to run this program:
+
+dotenv
+json
+os
+requests
+itertools
+csv
+statistics
+datetime
+iPython
+
+Additionally, you should get an API key from AlphaVantage through the documentation page
+on their site. Once you receive this, save it as a local environment variable in a 
+.env file as 'ALPHAVANTAGE_API_KEY.'
